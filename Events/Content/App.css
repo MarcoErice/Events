@@ -1,0 +1,29 @@
+﻿#verticalLine {
+    border-left: 5px solid darkgray;
+    }
+
+#eventTitle {
+    margin-left: 5px
+}
+#eventList {
+    overflow-x: hidden
+} 
+
+#dateCss {
+    background-color: deeppink;
+    margin: 2px;
+    width: 50px;
+    clear: both
+}
+
+#textCss {
+    background-color: lightgray;
+    margin: 2px;
+    width: 250px;
+    height: 40px;
+    /*align-content:inherit*/
+}
+
+iframe {
+    overflow-x:hidden
+}
